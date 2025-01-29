@@ -83,7 +83,7 @@ do
 done
 
 echo "------------------------------------------------------------------------------"
-echo "Building Web App Console"
+echo "Building Web App/Console"
 echo "------------------------------------------------------------------------------"
 cd $source_dir/console
 [ -e build ] && rm -r build
